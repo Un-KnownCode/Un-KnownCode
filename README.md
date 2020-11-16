@@ -17,6 +17,6 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Un-KnownCode&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Un-KnownCode/)
 
 ## My Github Project
-<a href="https://github.com/Un-KnownCode/OnJava8Private">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Un-KnownCode&repo=OnJava8Private&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+<a href="https://github.com/Un-KnownCode/MyDwm">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Un-KnownCode&repo=MyDwm&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
